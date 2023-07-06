@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 </div>
   
  ##
+
+ 
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Alcino-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -31,6 +33,10 @@ Here are some ideas to get you started:
   <img align="center" alt="Alcino-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <!-- <img align="center" alt="Alcino-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Alcino-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
+  <p align="left"> 
+    <b>Visitor count</b><br>
+    <img src="https://profile-counter.glitch.me/alcinojose/count.svg" />
+  </p>
 </div>
   
   ##
